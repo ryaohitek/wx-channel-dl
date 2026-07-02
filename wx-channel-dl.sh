@@ -1,7 +1,7 @@
 #!/bin/bash
 # wx-channel-dl — Download WeChat Channels (微信视频号) audio as MP3
 # Usage: ./wx-channel-dl.sh <SHARE_LINK>
-# Repo:  https://github.com/<user>/wx-channel-dl
+# Repo:  https://github.com/ryaohitek/wx-channel-dl
 
 set -euo pipefail
 
